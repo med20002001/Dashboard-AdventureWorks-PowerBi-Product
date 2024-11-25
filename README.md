@@ -8,6 +8,7 @@ L’objectif final est de concevoir un tableau de bord interactif qui affiche de
 Fonctionnalités principales
 
 Extraction et nettoyage des données avec des requêtes SQL.
+
 Calcul des KPI pour la production :
  Répartition des produits par catégorie.
  Volume de production par période.
@@ -19,13 +20,16 @@ Calcul des KPI pour la production :
 Technologies utilisées
 
 Base de données : AdventureWorks (SQL Server).
+
 Outils : SQL Server Management Studio (SSMS).
 
 Étapes pour les développeurs
 
 Importer AdventureWorks dans SQL Server.
+
 Exécuter les scripts SQL (fournis dans le dépôt) pour extraire et transformer les données nécessaires.
-Connecter un outil de visualisation (ex. Power BI ou Tableau) pour créer les dashboards interactifs.
+
+Connecter l'outil de visualisation Power BI pour créer les dashboards interactifs.
 
 Objectif
 Fournir des outils analytiques fiables pour optimiser les décisions de production et réduire les coûts.
