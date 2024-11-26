@@ -19,7 +19,7 @@ Calcul des KPI pour la production :
  
 Technologies utilisées
 
-Base de données : AdventureWorks (SQL Server).
+Base de données : AdventureWorks2019 (SQL Server) Lien Pour teléchargement :https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms.
 
 Outils : SQL Server Management Studio (SSMS).
 
